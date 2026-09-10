@@ -1,0 +1,7 @@
+print("Hello, What is your name?")
+your_name = input()
+print("Hello", your_name)
+print("What is your Major?")
+major = input()
+print("Comp151 will help you gain skills in",major)
+print("Have a nice day!")
